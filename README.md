@@ -1,7 +1,12 @@
-# Todo-list
+
+# TO-DO Web Application
+
+In this application you can make todo list it will be not erased untill and unless you delete it.
+
+Contact me at [here](https://www.linkedin.com/in/tarun-kumar-947978188/)
 
 
-![image](https://user-images.githubusercontent.com/61703896/214224758-bce299d5-076c-45fb-87e9-32dcb3e76f6b.png)
-
+<br>
+<br>
 
 ![image](https://user-images.githubusercontent.com/61703896/214225117-bd31eaeb-52c4-4900-935f-2b11b8c39752.png)
