@@ -38,7 +38,7 @@ body{
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    margin: 0 400px;
+    margin: 0 700px;
     min-width: 500px;
     max-width: 1000px;
     background: rgba( 255, 255, 255, 0.15 );
