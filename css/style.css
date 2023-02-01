@@ -134,7 +134,7 @@ header .input-section {
     flex-direction: row;
     align-items: center;
     justify-content: end;
-    width: 100%;
+   /* width: 100%; Removed because it text is aligned center only*/
     height: 100%;
 }
 
